@@ -13,13 +13,13 @@ FreeCart is a .net core and AWS micro service web application, its MVP for onlin
 
 
 **FreeCart Microservice Architecture**
-![image](https://github.com/bijoabraham/FreeCart/assets/17844741/044fe9dc-4512-4c95-b80c-c75d2dc3b614)
+![image](https://github.com/bijoabraham/FreeCart/blob/main/Architecture.png)
 
 **Product Management and Search Microservices**
-![image](https://github.com/bijoabraham/FreeCart/assets/17844741/636718e0-924b-4d36-94ff-1325067b25db)
+![image](https://github.com/bijoabraham/FreeCart/blob/main/Service1.png)
 
 **Order Microservice**
-![image](https://github.com/bijoabraham/FreeCart/assets/17844741/af768849-5656-4a48-a587-3f6ebfdc1cf1)
+![image](https://github.com/bijoabraham/FreeCart/blob/main/Service2.png)
 
 
 
